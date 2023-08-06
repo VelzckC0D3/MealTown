@@ -136,9 +136,9 @@ No deployment necessary
 - GitHub: [@Fredo509](https://github.com/fredo509)
 - LinkedIn: [Fredo st fleur](https://www.linkedin.com/in/fredo-st-fleur/)
 
-👤 Daniel Carrera
+👤 Daniela Moreno
 
-- GitHub: [@Danielamoreno699](hhttps://github.com/danielamoreno699)
+- GitHub: [@Danielamoreno699](https://github.com/danielamoreno699)
 - LinkedIn: [Daniela Moreno](https://www.linkedin.com/in/daniela-moreno-06a139124/)
 
 👤 Alejandro Velasquez
